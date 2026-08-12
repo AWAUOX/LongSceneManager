@@ -1,6 +1,5 @@
 # Long Scene Manager Plugin
 
-**<font size="3">[中文文档 链接](README_中文.md)</font>**<br>
 Long Scene Manager is a powerful and easy-to-use Godot 4.x scene management plugin. It is specifically designed to solve various pain points in complex scene switching and multi-scene management in game projects. The plugin provides built-in asynchronous loading technology, an intelligent three-tier caching system, and customizable loading transitions, making your game scene switching efficient, smooth, controllable, and predictable.
 
 Whether you are an indie game developer or a commercial project with a full team, Long Scene Manager can help you:
@@ -13,9 +12,6 @@ Whether you are an indie game developer or a commercial project with a full team
 
 > 🌟 **Special Note**: The plugin provides both GDScript and C# versions with identical functionality. No matter which language you use, you can enjoy the same features and performance!
 
----
-
-<img src="./addons/long_scene_manager/image_icon/icon3.png" width = 30%>
 
 ---
 
@@ -720,9 +716,6 @@ The plugin comes with a demo project `demo_test_scene_manager/`, which includes:
 
 Running the demo project provides a intuitive understanding of the plugin's features.
 
-<img src="./addons/long_scene_manager/image_icon/main1.png" >
-<img src="./addons/long_scene_manager/image_icon/scene2.png" >
-<img src="./addons/long_scene_manager/image_icon/scene3.png" >
 
 ---
 

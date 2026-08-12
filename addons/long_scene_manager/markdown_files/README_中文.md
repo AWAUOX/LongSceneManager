@@ -13,9 +13,6 @@ Long Scene Manager 是一个功能强大、简单易用的 Godot 4.x 场景管�
 
 > 🌟 **特别提示**：插件同时提供 GDScript 和 C# 两个版本，功能完全一致。无论你使用哪种语言，都能享受到同等的功能和性能！
 
----
-
-<img src="./addons/long_scene_manager/image_icon/icon3.png" width = 30%>
 
 ---
 
@@ -717,10 +714,6 @@ await LongSceneManager.switch_scene(
 - `test_scene_2.tscn` - 测试场景2，展示完整的缓存管理功能
 
 运行演示项目可以直观了解插件的各项功能。
-
-<img src="./addons/long_scene_manager/image_icon/main1.png" >
-<img src="./addons/long_scene_manager/image_icon/scene2.png" >
-<img src="./addons/long_scene_manager/image_icon/scene3.png" >
 
 ---
 
