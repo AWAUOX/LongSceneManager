@@ -1,3 +1,5 @@
+
+
 # Long Scene Manager Plugin
 
 **<font size="3">[中文文档 链接](README_中文.md)</font>**<br>
@@ -111,7 +113,7 @@ Your support is my motivation to keep improving!
 
 ### Plugin Configuration (Exported Variables)
 
-Select the `LongSceneManager` node in the editor to configure the following parameters in the inspector:
+Select the `LongSceneManager` (or `LongSceneManagerCs` for C# projects) node in the editor to configure the following parameters in the inspector:
 
 | Variable | Type | Default | Description |
 |----------|------|---------|-------------|
